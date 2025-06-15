@@ -8,7 +8,7 @@ if ($send) {
 	if ($ubah) {
 		echo "
 <script> 
-alert('Terkirim !');
+alert('Terkirim !'); 
 window.location='index.php';
 </script>"; 
 	}
